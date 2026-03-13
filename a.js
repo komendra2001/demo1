@@ -1,1 +1,1 @@
-console.log("Hello from b1");
+console.log("Hello from b2");
